@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+MONFRI-NoSch,0,0,0,0,0,0,0,20240628,20240822
+STAT,0,0,0,0,0,0,0,20240628,20240822
+Weekend,0,0,0,0,0,0,0,20240628,20240822
