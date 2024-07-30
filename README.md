@@ -12,7 +12,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 2. Rename .env.example to .env
 
-3. run the development server:
+3. Aller sur google console
+
+4. Creer un compte
+
+5. Activier les services: google map et google direction
+
+6. Aller dans Identifiants
+
+7. Creer une cle
+
+8. Copier la cle
+
+9. Mettre dans le fichier .env
+
+10. run the development server:
 
 ```bash
    npm run dev
